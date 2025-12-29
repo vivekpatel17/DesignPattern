@@ -1,4 +1,4 @@
-package VisitorPatter;
+package VisitorPattern;
 
 public class Bank extends AbstractClient {
     private final String insuranceClass;

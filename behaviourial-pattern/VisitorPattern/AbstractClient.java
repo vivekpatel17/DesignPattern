@@ -1,4 +1,4 @@
-package VisitorPatter;
+package VisitorPattern;
 
 public abstract class AbstractClient {
     public final String name;

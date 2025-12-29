@@ -1,4 +1,4 @@
-package VisitorPatter;
+package VisitorPattern;
 
 public class VisitorPattern1 {
     public static void main(String[] args) {

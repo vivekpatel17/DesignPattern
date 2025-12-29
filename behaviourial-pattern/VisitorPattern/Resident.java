@@ -1,4 +1,4 @@
-package VisitorPatter;
+package VisitorPattern;
 
 public class Resident extends AbstractClient {
     private final String insuranceClass;

@@ -8,6 +8,10 @@ public class Bank extends AbstractClient {
         this.insuranceClass = insuranceClass;
     }
 
+    public String getInsuranceClass() {
+        return insuranceClass;
+    }
+
     @Override
     public void accept(IVisitor visitor) {
         visitor.visitBank(this);
